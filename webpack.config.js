@@ -49,7 +49,7 @@ module.exports = {
                         mimetype : 'application/font-woff',
                         name : '[name].[contenthash].[ext]',
                         outputPath : "./assets/fonts",
-                        publicPath : "../assets/fonts",
+                        publicPath : "./assets/fonts",
                         esModule : false
                     }
                 }
